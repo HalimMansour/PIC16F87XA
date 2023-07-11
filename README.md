@@ -1,6 +1,6 @@
-# PIC16F87XA Microcontroller Repository
+# PIC16F87XA Microcontroller 
 
-Welcome to the PIC16F87XA Microcontroller Repository! This repository contains various code examples for different modes and peripherals of the PIC16F87XA microcontroller along with their simulation in Proteus software.
+This repository contains various code examples for different modes and peripherals of the PIC16F87XA microcontroller along with their simulation in Proteus software.
 
 
 ## Simulation
